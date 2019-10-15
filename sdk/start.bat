@@ -1,0 +1,1 @@
+java -jar -Dmachine.no=1 -DhcConfigFilePath=./hc.json hkdata-0.0.1-SNAPSHOT.jar

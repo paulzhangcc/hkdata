@@ -1,0 +1,19 @@
+{
+  "config": [
+    {
+      "ip": "10.129.26.221",
+      "password": "admin12345",
+      "port": 8000,
+      "username": "admin"
+    },
+    {
+      "ip": "10.129.26.218",
+      "password": "admin12345",
+      "port": 8000,
+      "username": "admin"
+    }
+  ],
+  "lib":"F:\\meimeitech\\hkdata\\sdk\\win64\\"
+  //"lib": "/root/code/hkdata/sdk/linux64/"
+  //注意lib windows以\\结尾 linux以/结尾
+}

@@ -1,0 +1,1 @@
+修改hc的配置文件,使用start.bat/start.sh启动
